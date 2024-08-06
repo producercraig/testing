@@ -1,5 +1,5 @@
 {
-  "url": "https://producercraig.github.io/testing/", // site of your application, in non webgl build use any
-  "name": "CGJC BaseBuilder", // project name, will be displayed in wallet 
-  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/640px-PNG_transparency_demonstration_1.png" // project logo, will be displayed in wallet 
+  "url": "https://producer-craig.itch.io/testing-web3", // site of your application, in non webgl build use any
+  "name": "CGJCBaseBuilder", // project name, will be displayed in wallet 
+  "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png" // project logo, will be displayed in wallet 
 }
